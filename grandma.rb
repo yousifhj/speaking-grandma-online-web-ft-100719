@@ -18,3 +18,6 @@ def speak_to_grandma(phrase)
  if phrase == phrase.uppercase
    return "HUH?! SPEAK UP, SONNY!."
 end 
+
+
+speak_to_grandma("HELLO THERE")
